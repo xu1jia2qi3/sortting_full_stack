@@ -8,9 +8,16 @@ then goes to backend (./backend) and install dependencies
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### run front end
 ```
-npm run serve
+goes to frontend(./my-app) and run at port 3000 at localhost default
+npm start
+```
+
+### run back end
+```
+goes to frontend(./backend) and run at port 3001 at localhost default
+node app.js
 ```
 
 ### Compiles and minifies for production
