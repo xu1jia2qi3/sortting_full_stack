@@ -2,6 +2,9 @@
 
 ## Project setup
 ```
+first go to frontend (./my-app) and install dependencies
+npm install
+then goes to backend (./backend) and install dependencies
 npm install
 ```
 
